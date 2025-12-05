@@ -1,0 +1,142 @@
+{
+  "inscripciones": [
+    {
+      "id": 1,
+      "nombreEscuela": "Dojang Tigres del Sur",
+      "nombreAlumno": "Carlos",
+      "apellidoAlumno": "González",
+      "documento": "12.345.678-9",
+      "tipoDocumento": "RUT",
+      "correoElectronico": "carlos.gonzalez@email.com",
+      "edad": 15,
+      "peso": 58.5,
+      "gradoCinturon": "Cinta Roja",
+      "fechaInscripcion": "2025-11-15T10:30:00.000Z"
+    },
+    {
+      "id": 2,
+      "nombreEscuela": "Academia Dragones",
+      "nombreAlumno": "María",
+      "apellidoAlumno": "Rodríguez",
+      "documento": "98765432-1",
+      "tipoDocumento": "RUT",
+      "correoElectronico": "maria.rodriguez@email.com",
+      "edad": 12,
+      "peso": 45.2,
+      "gradoCinturon": "Cinta Azul",
+      "fechaInscripcion": "2025-11-16T14:20:00.000Z"
+    },
+    {
+      "id": 3,
+      "nombreEscuela": "Dojang Tigres del Sur",
+      "nombreAlumno": "Juan",
+      "apellidoAlumno": "Pérez",
+      "documento": "AB123456",
+      "tipoDocumento": "Pasaporte",
+      "correoElectronico": "juan.perez@email.com",
+      "edad": 18,
+      "peso": 72.8,
+      "gradoCinturon": "Cinta Negra 1° Dan",
+      "fechaInscripcion": "2025-11-17T09:15:00.000Z"
+    },
+    {
+      "id": 4,
+      "nombreEscuela": "Centro Marcial Phoenix",
+      "nombreAlumno": "Ana",
+      "apellidoAlumno": "Martínez",
+      "documento": "45678912-3",
+      "tipoDocumento": "RUT",
+      "correoElectronico": "ana.martinez@email.com",
+      "edad": 14,
+      "peso": 52.0,
+      "gradoCinturon": "Cinta Verde",
+      "fechaInscripcion": "2025-11-18T11:45:00.000Z"
+    },
+    {
+      "id": 5,
+      "nombreEscuela": "Academia Dragones",
+      "nombreAlumno": "Pedro",
+      "apellidoAlumno": "López",
+      "documento": "32145698",
+      "tipoDocumento": "DNI",
+      "correoElectronico": "pedro.lopez@email.com",
+      "edad": 16,
+      "peso": 65.3,
+      "gradoCinturon": "Cinta Roja-Negra",
+      "fechaInscripcion": "2025-11-19T16:30:00.000Z"
+    }
+  ],
+  "escuelas": [
+    {
+      "id": 1,
+      "nombre": "Dojang Tigres del Sur",
+      "ciudad": "Santiago",
+      "pais": "Chile"
+    },
+    {
+      "id": 2,
+      "nombre": "Academia Dragones",
+      "ciudad": "Buenos Aires",
+      "pais": "Argentina"
+    },
+    {
+      "id": 3,
+      "nombre": "Centro Marcial Phoenix",
+      "ciudad": "Lima",
+      "pais": "Perú"
+    }
+  ],
+  "cinturones": [
+    {
+      "id": 1,
+      "grado": "Cinta Blanca",
+      "nivel": 10
+    },
+    {
+      "id": 2,
+      "grado": "Cinta Amarilla",
+      "nivel": 9
+    },
+    {
+      "id": 3,
+      "grado": "Cinta Naranja",
+      "nivel": 8
+    },
+    {
+      "id": 4,
+      "grado": "Cinta Verde",
+      "nivel": 7
+    },
+    {
+      "id": 5,
+      "grado": "Cinta Azul",
+      "nivel": 6
+    },
+    {
+      "id": 6,
+      "grado": "Cinta Roja",
+      "nivel": 5
+    },
+    {
+      "id": 7,
+      "grado": "Cinta Roja-Negra",
+      "nivel": 4
+    },
+    {
+      "id": 8,
+      "grado": "Cinta Negra 1° Dan",
+      "nivel": 3
+    },
+    {
+      "id": 9,
+      "grado": "Cinta Negra 2° Dan",
+      "nivel": 2
+    },
+    {
+      "id": 10,
+      "grado": "Cinta Negra 3° Dan",
+      "nivel": 1
+    }
+  ]
+}
+
