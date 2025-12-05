@@ -7,7 +7,7 @@ export interface Escuela {
     pais: string;
 }
 
-const API_URL = 'http://localhost:3000';
+const API_URL = import.meta.env.VITE_BASE_URL;
 
 const fetchEscuelas = async (): Promise<Escuela[]> => {
     const response = await fetch(`${API_URL}/escuelas`);

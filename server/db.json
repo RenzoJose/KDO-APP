@@ -26,7 +26,6 @@
       "fechaInscripcion": "2025-11-16T14:20:00.000Z"
     },
     {
-      "id": "3",
       "nombreEscuela": "Dojang Tigres del Sur",
       "nombreAlumno": "Juan",
       "apellidoAlumno": "Pérez",
@@ -36,7 +35,7 @@
       "edad": 18,
       "peso": 72.8,
       "gradoCinturon": "Cinta Negra 1° Dan",
-      "fechaInscripcion": "2025-11-17T09:15:00.000Z"
+      "id": "3"
     },
     {
       "id": "4",
@@ -65,16 +64,17 @@
       "fechaInscripcion": "2025-11-19T16:30:00.000Z"
     },
     {
+      "id": "6",
       "nombreEscuela": "Centro Marcial Phoenix",
-      "nombreAlumno": "Hannah",
+      "nombreAlumno": "RENZO",
       "apellidoAlumno": "BARRUETA",
-      "documento": "26674516-8",
+      "documento": "12.345.678-9",
       "tipoDocumento": "RUT",
       "correoElectronico": "renzobarrueta@gmail.com",
-      "edad": 5,
-      "peso": 20,
-      "gradoCinturon": "Cinta Verde",
-      "id": "6"
+      "edad": 50,
+      "peso": 80,
+      "gradoCinturon": "Cinta Roja-Negra",
+      "fechaInscripcion": "2025-12-05T19:34:21.616Z"
     }
   ],
   "escuelas": [
